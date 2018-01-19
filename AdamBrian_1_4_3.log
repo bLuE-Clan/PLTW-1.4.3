@@ -1,0 +1,107 @@
+# IPython log file
+
+%cd "H:\Python"
+# Fri, 17 Nov 2017 11:07:09
+tpye(image)
+# Fri, 17 Nov 2017 11:07:15
+tpye(img)
+# Fri, 17 Nov 2017 11:07:24
+type(img)
+# Fri, 17 Nov 2017 11:07:56
+type(img)
+# Fri, 17 Nov 2017 11:08:26
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpoyqqw8.py"# Fri, 17 Nov 2017 11:09:25
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpgxzbrj.py"# Fri, 17 Nov 2017 11:09:40
+type(img)
+#[Out]# numpy.ndarray
+# Fri, 17 Nov 2017 11:09:58
+img
+#[Out]# array([[[ 99, 125, 116],
+#[Out]#         [ 98, 124, 115],
+#[Out]#         [ 96, 121, 115],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[ 99, 125, 116],
+#[Out]#         [ 95, 120, 114],
+#[Out]#         [100, 125, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[102, 129, 122],
+#[Out]#         [ 94, 121, 114],
+#[Out]#         [ 97, 124, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        ..., 
+#[Out]#        [[ 33,  33,  33],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 33,  33,  35],
+#[Out]#         ..., 
+#[Out]#         [148, 124,  96],
+#[Out]#         [142, 118,  90],
+#[Out]#         [146, 122,  94]],
+#[Out]# 
+#[Out]#        [[ 27,  27,  27],
+#[Out]#         [ 29,  29,  29],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         ..., 
+#[Out]#         [144, 120,  92],
+#[Out]#         [146, 122,  94],
+#[Out]#         [150, 126,  98]],
+#[Out]# 
+#[Out]#        [[ 30,  30,  30],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 35,  35,  35],
+#[Out]#         ..., 
+#[Out]#         [143, 119,  91],
+#[Out]#         [150, 126,  98],
+#[Out]#         [147, 123,  95]]], dtype=uint8)
+# Fri, 17 Nov 2017 11:10:18
+len(img)
+#[Out]# 960
+# Fri, 17 Nov 2017 11:10:31
+len(img[0])
+#[Out]# 584
+# Fri, 17 Nov 2017 11:13:46
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpyvfy7k.py"# Fri, 17 Nov 2017 11:15:02
+img[200, 220][50, 100]
+# Fri, 17 Nov 2017 11:15:10
+img[200][50]
+#[Out]# array([255, 255,   0], dtype=uint8)
+# Fri, 17 Nov 2017 11:15:55
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpn0bpyu.py"# Fri, 17 Nov 2017 11:17:59
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpo3z6wv.py"# Fri, 17 Nov 2017 11:18:55
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpfsrem7.py"# Fri, 17 Nov 2017 11:20:30
+img[row][column]
+#[Out]# array([255, 255,   0], dtype=uint8)
+# Fri, 17 Nov 2017 11:20:47
+fig.show()
+# Fri, 17 Nov 2017 11:21:18
+%run "c:\users\passal~1.avo\appdata\local\temp\tmp5mhuag.py"# Fri, 17 Nov 2017 11:23:29
+%run "c:\users\passal~1.avo\appdata\local\temp\tmprxqror.py"# Fri, 17 Nov 2017 11:24:01
+%run "c:\users\passal~1.avo\appdata\local\temp\tmptsajw6.py"# Fri, 17 Nov 2017 11:25:47
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpu7y3x7.py"# Fri, 17 Nov 2017 11:27:22
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpy3bvhk.py"# Fri, 17 Nov 2017 11:28:32
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpopdi8h.py"# Fri, 17 Nov 2017 11:32:05
+# 6a. if the brightness of the pixel is over 500, then change the RGB value to magenta
+# Fri, 17 Nov 2017 11:32:28
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpc3hg7y.py"# Fri, 17 Nov 2017 11:34:26
+%run "c:\users\passal~1.avo\appdata\local\temp\tmp4aadqb.py"# Fri, 17 Nov 2017 11:34:42
+%run "c:\users\passal~1.avo\appdata\local\temp\tmpg0nhix.py"# Fri, 17 Nov 2017 11:36:32
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:39:10
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:40:46
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:41:46
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:42:46
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:43:13
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:43:36
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:43:51
+%run "C:\Users\passala.AVONDALE\Downloads\make_mask.py"# Fri, 17 Nov 2017 11:55:37
+%logstop

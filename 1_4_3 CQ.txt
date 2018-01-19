@@ -1,0 +1,10 @@
+1. The data in a digital image is a set of RGB values for each pixel. If it is "altered" those RGB values change.
+
+2. A photo taken with light-sensitive film is actually a picture, whereas a picture on a digital camera is just a set of values that the computer changes into a picture.
+
+3. 
+	A.  It changes the value of each pixel so slightly, that humans cannot see a differece in the picture, but the numbers can represent a message.
+	B. Six bits are a set of 6 1's or 0's, and each 1 or 0 means a power of 2. So, 2^0 + 2^1 + 2^2 + 2^3 + 2^4 +2^5 = 63.
+	C. It would change the RGB value of the pixels resulting in a change in the color of the image.
+
+4. The algorithm looks for  many pixels of the same value that are touching, and outputs how many of these objects are in an image.
